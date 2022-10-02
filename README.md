@@ -1,7 +1,7 @@
 # Visual Sort App
 
 **ci status:**<br>
-<img src="https://github.com/Gaydamovich/visual-sort/workflows/CI/badge.svg?branch=master"><br>
+<img src="https://github.com/Gaydamovich/visual-sort/workflows/CI/badge.svg?branch=main"><br>
 
 ### Start project
 ***npm start***
