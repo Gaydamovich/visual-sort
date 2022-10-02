@@ -1,0 +1,21 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  padding: 8px 24px;
+  font-weight: 600;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(218, 218, 218);
+}
+
+.btn:active {
+  color: #fff;
+  background-color: rgb(105, 106, 106);
+}

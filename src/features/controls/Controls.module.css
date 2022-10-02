@@ -1,0 +1,12 @@
+.controls {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+  
+
+.controls__buttons {
+  margin-bottom: 16px;
+  display: flex;
+}
